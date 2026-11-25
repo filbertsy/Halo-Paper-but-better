@@ -1,0 +1,8 @@
+name: 'Halo-Paper'
+version: '${version}'
+main: org.zyon.halopaper.HaloPaper
+api-version: '26.3'
+commands:
+  hello:
+    description: 'Says hello from Halo-Paper'
+    usage: /<command>
